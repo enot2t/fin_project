@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 from phik import phik_matrix
+import psycopg2
 from sqlalchemy import URL, create_engine, text
 import streamlit as st
 
