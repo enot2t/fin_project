@@ -118,7 +118,7 @@ with scol3:
     plt.grid()
     st.pyplot(plt)
 
-st.header("динамика изменения реальных зарплат с учетом инфляции", anchor=None)
+st.header("Динамика изменения реальных зарплат с учетом инфляции", anchor=None)
 
 plt.clf()
 plt.figure(figsize=(12, 8))
