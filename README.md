@@ -21,6 +21,6 @@
 - `LICENSE`:  используемая лицензия
 
 
-Приложение можно попробовать [ТУТ](https://finproject-9kzswg6qhplnmrcgmcpikl.streamlit.app/)
+Приложение можно попробовать [ТУТ](https://finproject-blymu43wz7uxxqpekjhzgk.streamlit.app/)
 
 Выполнил: Захаров Валентин
