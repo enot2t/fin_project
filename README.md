@@ -18,6 +18,6 @@
 - `requirements.txt`:  файл со списком используемых билиотек
 - `fin_project.ipynb`: файл Jupyter Notebook
 
+Приложение можно попробовать [ТУТ](https://finproject-9kzswg6qhplnmrcgmcpikl.streamlit.app/)
+
 Выполнил: Захаров Валентин
-
-
