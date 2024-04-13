@@ -20,6 +20,7 @@
 - `fin_project.ipynb`: файл Jupyter Notebook
 - `.gitignore`:  файл со списком исключений
 - `LICENSE`:  используемая лицензия
+- `start_ds.xlsx`:  файл с датасетом (был загружен на удаленный сервер)
 
 
 Приложение можно попробовать [ТУТ](https://finproject-blymu43wz7uxxqpekjhzgk.streamlit.app/)
