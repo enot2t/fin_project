@@ -4,8 +4,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 from phik import phik_matrix
-import psycopg2
-import psycopg2.extras; psycopg2.extensions.set_wait_callback(psycopg2.extras.wait_select)
 from sqlalchemy import URL, create_engine, text
 import streamlit as st
 
