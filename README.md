@@ -16,4 +16,8 @@
 Файлы:
 - `app.py`: streamlit приложение
 - `requirements.txt`:  файл со списком используемых билиотек
-- 
+- `fin_project.ipynb`: файл Jupyter Notebook
+
+Выполнил: Захаров Валентин
+
+
