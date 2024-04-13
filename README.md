@@ -17,6 +17,9 @@
 - `app.py`: streamlit приложение
 - `requirements.txt`:  файл со списком используемых билиотек
 - `fin_project.ipynb`: файл Jupyter Notebook
+- `.gitignore`:  файл со списком исключений
+- `LICENSE`:  используемая лицензия
+
 
 Приложение можно попробовать [ТУТ](https://finproject-9kzswg6qhplnmrcgmcpikl.streamlit.app/)
 
